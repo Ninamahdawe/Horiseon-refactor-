@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;/*gray*/
 
 }
-
+/* navabr section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,12 +59,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
+/* image on the left side of the website */
+.float-left { 
     float: left;
     margin-right: 25px;
 }
-
+/* image on the right side of the website */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* right side of the website */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,7 +109,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* main artical of the website */
 .search-engine-optimization , 
 .online-reputation-management ,
 .social-media-marketing  {
@@ -133,7 +133,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* this is the end of the website */
 .footer {
     padding: 30px;
     clear: both;
