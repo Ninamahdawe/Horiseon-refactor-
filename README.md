@@ -10,7 +10,7 @@ The web is full of opinions, and some of these can be negative. Social media all
 Intructions for the plamform:
 you would be able to veiw the servcies Horiseon offers by clicking on the links on the top right corner of the website.
 
-![Website screenshot](./Horiseon-refactor/./assets/images/Screenshot1.png)
+![Website screenshot](./assets/images/Screenshot1.png)
 ![website screenshot](./assets/images/Screenshot2.png)
 
 [link to deploy website](https://Ninamahdawe.github.io/Horiseon-refactor-)
