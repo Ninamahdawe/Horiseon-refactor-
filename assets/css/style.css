@@ -3,12 +3,13 @@
     padding: 0;
     margin: 0;
 }
+/* changed the background color to gray*/
 
 body { 
-    background-color: #d9dcd6;/*gray*/
+    background-color: #d9dcd6; 
 
 }
-/* navabr section */
+/* The style for the header is the  navabr section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +47,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* the font size for the paragraphs*/
 p {
     font-size: 16px;
 }
@@ -59,12 +60,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* image on the left side of the website */
+/* Styles for the images/elements  on the left side of the website */
 .float-left { 
     float: left;
     margin-right: 25px;
 }
-/* image on the right side of the website */
+/*  Styles for the images/elements on the right side of the website */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -75,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* right side of the website */
+/* The styles for the benefits section on the right side of the website */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,14 +87,14 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*Combined all the styles for the  individual benefits into one section */
 .benefit-lead ,
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Combined all the styles for the  individual benefits h3 into one section */
 
 .benefit-lead h3 ,
 .benefit-brand h3 , 
@@ -109,7 +110,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* main artical of the website */
+/*  This style is the main artical of the website */ 
 .search-engine-optimization , 
 .online-reputation-management ,
 .social-media-marketing  {
@@ -133,7 +134,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* this is the end of the website */
+/* This Style is the footer style of the end of the website */
 .footer {
     padding: 30px;
     clear: both;
